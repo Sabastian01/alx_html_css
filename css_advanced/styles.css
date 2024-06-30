@@ -1,0 +1,10 @@
+body {
+    margin: 0px;
+}
+.header-image {
+    background-image: url(./images/Object.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+
+}
