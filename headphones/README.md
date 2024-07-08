@@ -1,0 +1,1 @@
+This structure should provide a clear and organized README.md file that communicates essential information about your Figma project. Adjust the content based on your specific project details and requirements.
